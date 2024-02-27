@@ -93,7 +93,7 @@
 </table>
 
 
-![snake gif](https://github.com/Atakan-Demir/Atakan-Demir/blob/output/github-contribution-grid-snake.gif)
+
 
 
 
