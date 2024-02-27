@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Atakan</h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atakan-demir&label=Profile%20views&color=0e75b6&style=flat" alt="atakan-demir" /> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atakan-demir&show_icons=true&locale=en&layout=compact" alt="atakan-demir" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atakandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakandemir" height="30" width="40" /></a>
-<a href="https://instagram.com/_atkn_dmr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atkn_dmr_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atakan-demir&label=Profile%20views&color=0e75b6&style=flat" alt="atakan-demir" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  
-  <!-- Web Development -->
+<table align="center">
+  <tr>
+    <td valign="top" align="left">
+
+### Connect with me:
+<a href="https://linkedin.com/in/atakandemir" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakandemir" height="30" width="40" />
+</a>
+<a href="https://instagram.com/_atkn_dmr_" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atkn_dmr_" height="30" width="40" />
+</a>
+
+### Languages and Tools:
+<!-- Web Development -->
   <strong>Web Development:</strong><br>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
@@ -74,4 +78,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
 </p>
+
+  </td>
+
+    
+  <td valign="top" align="center">
+
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atakan-demir&show_icons=true&locale=en&layout=compact&theme=dark" alt="atakan-demir" />
+
+
+  </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
