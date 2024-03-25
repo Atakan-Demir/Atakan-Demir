@@ -17,7 +17,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_atkn_dmr_" height="30" width="40" />
 </a>
 
-### Languages and Tools:
+### Languages and Tools of Interest:
 <!-- Web Development -->
   <strong>Web Development:</strong><br>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
